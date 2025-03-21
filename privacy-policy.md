@@ -1,4 +1,4 @@
-# Privacy Policy for QuickSched
+# Privacy Policy for Time2Post
 
 ## 1. Introduction
 QuickSched is a web application designed to schedule Facebook posts and send email notifications. This Privacy Policy explains how we collect, use, and protect user data.
