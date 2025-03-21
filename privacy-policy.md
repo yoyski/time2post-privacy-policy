@@ -17,4 +17,4 @@ QuickSched is a web application designed to schedule Facebook posts and send ema
 We do not share, sell, or distribute user data to third parties. All data is encrypted and securely stored.
 
 ## 5. Contact Us
-If you have any questions, contact us at **@ferdinandasjr@gmail.com**.
+If you have any questions, contact us at **ferdinandasjr@gmail.com**.
